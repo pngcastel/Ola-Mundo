@@ -1,2 +1,2 @@
-# Ola-Mundo
- primeiro repositório da cris
+# Olá, Mundo!
+ Primeiro repositório da Cris, feito pelo canal curso em video do Prof. Guanabara
